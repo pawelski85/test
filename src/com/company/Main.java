@@ -6,6 +6,7 @@ public class Main {
 
 	// gamma
 	// beta
+        //beta2
 
     }
 }
