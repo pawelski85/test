@@ -4,11 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-	// beta2
-
-	// beta
 	// gamma
-
-		// gamma
     }
 }
