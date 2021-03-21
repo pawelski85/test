@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// beta
-	// gamma3
+	// nowa gamma
     }
 }
