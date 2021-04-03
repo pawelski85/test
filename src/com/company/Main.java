@@ -3,9 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        // beta2
-
-        // gamma
+        // gamma3
 
     }
 }
