@@ -9,6 +9,11 @@ public class Main {
         // beta
         // beta
 
+        // gamma
+        // gamma
+        // gamma
+        // gamma
+        // gamma
 
     }
 }
