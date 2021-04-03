@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
         // beta
         // gamma
+        // beta2
+        //beta2
 
     }
 }
