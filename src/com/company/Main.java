@@ -4,8 +4,7 @@ public class Main {
 
     public static void main() {
 
-        // betakjjh
-//zmiana
+        // 12
 
     }
 }
