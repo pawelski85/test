@@ -6,11 +6,6 @@ public class Main {
 
         // tylko beta
 
-        // gamma
-        // gamma
-        // gamma
-        // gamma
-        // gamma
 
     }
 }
