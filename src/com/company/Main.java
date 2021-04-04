@@ -4,8 +4,6 @@ public class Main {
 
     public static void main() {
 
-        // 1
-
         //2
 
     }
