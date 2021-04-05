@@ -6,5 +6,20 @@ public class Main {
         //beta
         //aa
         //aa
+
+
+        //2
+
+        // beta// beta// beta// beta
+// beta// beta// beta// beta// beta
+// beta// beta// beta// beta// beta
+        // gamma
+        // gamma
+        // gamma
+
+        // gamma
+        // gamma
+
+
     }
 }
