@@ -4,21 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
         //beta
-        //aa
-        //aa
-//cc
-
-        //2
-
-        // beta// beta// beta// beta
-// beta// beta// beta// beta// beta
-// beta// beta// beta// beta// beta
-        // gamma
-        // gamma
-        // gamma
-
-        // gamma
-        // gamma
+        //beta
+        //beta
+        //beta//beta
 
 
     }
